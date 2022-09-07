@@ -1,0 +1,7 @@
+[MailPlugin]
+FromMail = 'yazzyk@qq.com'
+HTMLPath = 'resource/mail_tmp/index.html'
+Pwd = 'pwd'
+[MailPlugin.SMTP]
+Port = 25
+Server = 'smtp.qiye.163.com'
